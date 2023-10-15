@@ -147,7 +147,7 @@
 ![gmae](/Docs/gif/game_end.gif)
 
 
-# 🛠️개발 환경
+# 🛠개발 환경
 
 #### 💻 **IDE**
     - Intellij
@@ -186,7 +186,7 @@
     - Mattermost
     - Notion
 
-# ✏️프로젝트 회고
+# ✏프로젝트 회고
 
  ### JWT와 Redis의 사용
     - JWT를 DB에 저장하지 않고 Redis에 저장함
